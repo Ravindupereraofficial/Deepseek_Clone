@@ -12,7 +12,6 @@ export default function Home() {
   return (
    <div>
     <div className="flex h-screen">
-      {}
     <div>
       <div>
         <Image className="rotate-180" src={assets.menu_icon} alt=""/>
